@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:AggregateDelegate.xcodeproj">
+      location = "self:/Users/steve/Desktop/AggregateDelegate/Aggregate.xcodeproj">
    </FileRef>
 </Workspace>
